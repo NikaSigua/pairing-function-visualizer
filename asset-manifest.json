@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pairing-function-visualizer/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/pairing-function-visualizer/static/js/main.09346f59.chunk.js",
+    "main.js.map": "/pairing-function-visualizer/static/js/main.09346f59.chunk.js.map",
+    "runtime-main.js": "/pairing-function-visualizer/static/js/runtime-main.007866f8.js",
+    "runtime-main.js.map": "/pairing-function-visualizer/static/js/runtime-main.007866f8.js.map",
+    "static/js/2.8fc4154b.chunk.js": "/pairing-function-visualizer/static/js/2.8fc4154b.chunk.js",
+    "static/js/2.8fc4154b.chunk.js.map": "/pairing-function-visualizer/static/js/2.8fc4154b.chunk.js.map",
+    "index.html": "/pairing-function-visualizer/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/pairing-function-visualizer/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8fc4154b.chunk.js.LICENSE.txt": "/pairing-function-visualizer/static/js/2.8fc4154b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.007866f8.js",
+    "static/js/2.8fc4154b.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.09346f59.chunk.js"
+  ]
+}
