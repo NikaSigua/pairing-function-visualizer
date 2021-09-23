@@ -60,7 +60,8 @@ formula, and all the cells holding a number satisfying the formula
 in the grid will be highlighted. For example, if the user selected
 the boustrophedonic pairing function and chose to highlight all the
 polygonal numbers (the ones satisfying
-&nbsp;<i>f</i> (<i>x</i>) = <i>x</i><sup>2</sup> - <i>x</i> + 1),
+![f(x)=x^2-x+1](https://latex.codecogs.com/svg.image?%5Ccolor%7Bwhite%7Df(x)%20=%20x%5E%7B2%7D-x&plus;1)
+),
 the diagonal of the grid would be highlighted. Once that is added, I'll try to
 make presets for common/relevant formulas. Lastly, if I can get it to work,
 I'll try to make it so that multiple highlights can be toggled on at
@@ -90,8 +91,7 @@ are toggled on, hovering over a grid cell will show numeral.
 
 Transpose flips every entry along the diagonal, in other words 
 
-![(i,j) maps to (j,i)](https://latex.codecogs.com/svg.image?%5Cbegin%7Bbmatrix%7Da%20&b%20%20%20%5C%5Cc%20&d%20%20%20%5C%5C%5Cend%7Bbmatrix%7D%5Cmapsto%20%5Cbegin%7Bbmatrix%7Da%20&c%20%20%20%5C%5Cb%20&d%20%20%20%5C%5C%5Cend%7Bbmatrix%7D)
-
+![(i,j) maps to (j,i)](https://latex.codecogs.com/svg.image?%5Ccolor%7Bwhite%7D%5Cbegin%7Bbmatrix%7Da%20&%20b%20%5C%5Cc%20&%20d%20%5C%5C%5Cend%7Bbmatrix%7D%5Cmapsto%20%5Cbegin%7Bbmatrix%7Da%20&%20c%20%5C%5Cb%20&%20d%20%5C%5C%5Cend%7Bbmatrix%7D%20)
 ### Color Themes
 
 ---
