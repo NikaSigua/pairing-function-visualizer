@@ -6,7 +6,6 @@ You can access the current version [here](https://www.nikasigua.com/pairing-func
 
 ## What's What
 
----
 
 ![](src/images/display.png)
 
@@ -97,13 +96,12 @@ Transpose flips every entry along the diagonal, in other words
 ---
 
 The default and recommended color theme is the heatmap. The color for each cell is
-determined by the number inside of the cell.
+determined by the number inside the cell.
 
 There are some issues with the grayscale and red-blue color themes at higher grid lengths.
 
 ## Other Resources
 
----
 
 ### General Information
 
