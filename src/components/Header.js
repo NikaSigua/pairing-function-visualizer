@@ -36,13 +36,9 @@ const Header = () => {
                 <details>
                     <StyledSummary>What is a pairing function?</StyledSummary>
                     <Indented>
-                        [What is a pairing function?]
-                    </Indented>
-                </details>
-                <details>
-                    <StyledSummary>Why should I care?</StyledSummary>
-                    <Indented>
-                        [Why should I care?]
+                        Pairing functions uniquely encode two numbers into one. One of their most well known uses is in showing
+                        that the natural numbers <br/>  and the rational numbers have the same cardinality, but there are other
+                        practical applications as well, such as dovetailing.
                     </Indented>
                 </details>
                 <details>
@@ -52,35 +48,6 @@ const Header = () => {
                         default settings for that pairing function will be rendered. <br/>
                         From there, the best way to get a sense of how this works is to press some buttons,
                         but just in case, here is some documentation:
-                        <details>
-                            <StyledSummary>Pairing Functions</StyledSummary>
-                            <Indented>
-                                <details>
-                                    <StyledSummary>Cantor's</StyledSummary>
-                                    <Indented>
-                                        [Cantor's]
-                                    </Indented>
-                                </details>
-                                <details>
-                                    <StyledSummary>The Boustrophedon</StyledSummary>
-                                    <Indented>
-                                        [The Boustrophedon]
-                                    </Indented>
-                                </details>
-                                <details>
-                                    <StyledSummary>Pigeon's</StyledSummary>
-                                    <Indented>
-                                        [Pigeon's]
-                                    </Indented>
-                                </details>
-                                <details>
-                                    <StyledSummary>Szudzik's</StyledSummary>
-                                    <Indented>
-                                        [Szudzik's]
-                                    </Indented>
-                                </details>
-                            </Indented>
-                        </details>
                         <details>
                             <StyledSummary>Grid Length</StyledSummary>
                             <Indented>

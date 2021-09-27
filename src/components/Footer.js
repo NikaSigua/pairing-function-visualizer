@@ -31,14 +31,9 @@ const Footer = () => {
     return (
         <StyledFooter>
             <Shelf>
-                <div>
-                    <a style={{color: 'white', textDecoration: 'none'}}
-                       href="https://en.wikipedia.org/wiki/Pairing_function">
-                        <i className="fab fa-wikipedia-w"/>
-                        IKIPEDI<span style={{fontSize: '19px'}}>A</span>
-                    </a>
-                </div>
+
             </Shelf>
+
             <Shelf>
 
             </Shelf>
